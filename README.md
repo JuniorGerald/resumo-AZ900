@@ -16,3 +16,4 @@ Despesas Capitais (Capex):
 Despesas Operacionais (OpeEx):
   Despesas contínuas da empresa, como por exemplo o consumo dos produtos e serviços da nuvem, pagamento conforme o uso (pay as you go).
   
+https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal
